@@ -4,7 +4,7 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "authorship_tag": "ABX9TyPBHOCqsI6Ml7fQd3D3X/u4",
+      "authorship_tag": "ABX9TyPTsLx43mQt+R76nULsS0RP",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -674,6 +674,43 @@
           "execution_count": 136
         }
       ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "Assignment 3: Making some updates to our banking system, write a function that will return the monthly payment for a loan amount amt, interest rate r, and loan duration in months n. The formula for calculating the monthly payment is:\n",
+        "Monthly payment = check on notes.... amt, r and n"
+      ],
+      "metadata": {
+        "id": "Hr1cqxjPHqhq"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "K1nEy529IYmn"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "Assignment 4: In order for the bank to amotize loans, it has requested you write three new functions for interest repayment, total repayment and the principle repayment following these equations:\n"
+      ],
+      "metadata": {
+        "id": "A3d4vH-1Izr3"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "lFYgec4cKdf1"
+      },
+      "execution_count": null,
+      "outputs": []
     }
   ]
 }
